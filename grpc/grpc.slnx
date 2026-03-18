@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Protos/">
+    <File Path="chat.proto" />
+  </Folder>
+  <Project Path="grpc.Client/grpc.Client.csproj" />
+  <Project Path="grpc.Server/grpc.Server.csproj" />
+</Solution>
